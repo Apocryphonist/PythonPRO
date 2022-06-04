@@ -5,6 +5,6 @@ name = "Angela"
 print(name)
 
 
-Tname = input("What is your name? ")
-length = len(Tname)
+name = input("What is your name?")
+length = len(name)
 print(length)
